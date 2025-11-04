@@ -1,2 +1,4 @@
 # college-demo
-Author- Sam Kad
+Author-
+<br>
+Sam Kad
